@@ -297,7 +297,7 @@ X2 Continuous
 ```
 
 ## About 
-This project was initiated by [@DMinghao](https://github.com/DMinghao) [@HLiu-970725](https://github.com/HLiu-970725) [@LYLwithDCT](https://github.com/LYLwithDCT) [@ReynaYC](https://github.com/ReynaYC) 
+This project was initiated by [@ReynaYC](https://github.com/ReynaYC) [@DMinghao](https://github.com/DMinghao) [@HLiu-970725](https://github.com/HLiu-970725) [@LYLwithDCT](https://github.com/LYLwithDCT)
 
 ### Contributing
 Please check out the [CONTRIBUTING](CONTRIBUTING.md)  document
